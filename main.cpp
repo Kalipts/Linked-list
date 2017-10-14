@@ -42,7 +42,7 @@ int main() {
 //    cout << lastNode(list).data;
 //    cout << palindromeOrNot(list);
 
-    Exercise4(listFirst);
+
 
     output(listFirst);
 
